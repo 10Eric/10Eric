@@ -1,5 +1,4 @@
 ## Hi there 👋, My name is Eric Díez Apolo
-====================================================================================================================================
 
 I'm currently studying a Computer Engineering Bachelor in @FIB, @UPC.
 
